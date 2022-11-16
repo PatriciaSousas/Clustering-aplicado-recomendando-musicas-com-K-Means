@@ -11,3 +11,6 @@ Inicio avaliando  API do Spotify e vejo alguns pontos  que entram como caracteri
 
 
 #####  Base de dados trabalhada nesse projeto já foi extraida e passo por um tratamento básico
+
+- Na primeira fase eu retirei algumas colunas que eu não usaria no meu modelo e organizei os anos em todas as timeline mantendo os dados de 2000 a 2020
+
