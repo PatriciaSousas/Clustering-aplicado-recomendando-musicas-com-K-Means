@@ -10,3 +10,4 @@ Inicio avaliando  API do Spotify e vejo alguns pontos  que entram como caracteri
 -Popularidade: Uma variavél númerica, aqui tenho uma variação de 0 a 100, sendo 100 a mais popular.
 
 
+#####  Base de dados trabalhada nesse projeto já foi extraida e passo por um tratamento básico
