@@ -10,11 +10,6 @@ Inicio avaliando  API do Spotify e vejo alguns pontos  que entram como caracteri
 - Musicas ao Vivo: Uma variavél númerica, detecta a presença de público na gravação
 -Popularidade: Uma variavél númerica, aqui tenho uma variação de 0 a 100, sendo 100 a mais popular.
 -------------------------------------------------------------------------------------------------
-- Na primeira fase eu retirei algumas colunas que eu não usaria no meu modelo e organizei os anos em todas as timeline mantendo os dados de 2000 a 2020
 
-- Na segunda fase analisei algumas métricas como Loudness e anos, isso me possibilitou entender a variação dos sons nos anos que eu tenho no dataset e a contrução 
-de uma matriz de correlação que detalha o que foi explorado no grafico 1, relacionando musicabilidade e sons, populariedade e danceabilidade
-
-- Na terceira fase fiz uma clusterizacao por gênero, que significa fazer um agrupamento por semelhanças e caracteristicas nos estilos de musicas 
 
 
